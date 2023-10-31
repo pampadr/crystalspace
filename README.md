@@ -1,21 +1,21 @@
 <p float="left">
-  <a href="https://play.google.com/store/apps/details?id=com.bestp.argex"><img src="google-play-badge.png" width="220" height="85"/></a>
-  <a href="mailto:support@bets10bright.online"><img src="contact-button.png" width="220" height="85"/></a>
+  <a href="https://play.google.com/store/apps/details?id="><img src="google-play-badge.png" width="220" height="85"/></a>
+  <a href="mailto:support@crystalspace.space"><img src="contact-button.png" width="220" height="85"/></a>
 </p>
 
-Bets10 bright
+Crystal Space
 Privacy and security: Our site title policy
 
 We believe in being open and transparent about our handling of user information. Our site description policy explains our practices.
 
 Privacy Policy
-com.bibere.arfwe built the Bets10 bright app as a Free app. This SERVICE is provided by com.bibere.arfwe at no cost and is intended for use as is.
+com.bibere.arfwe built the Crystal Space app as a Free app. This SERVICE is provided by com.bibere.arfwe at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
 If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Bets10 bright unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Crystal Space unless otherwise defined in this Privacy Policy.
 
 Information Collection and Use
 
@@ -25,8 +25,6 @@ Link to the privacy policy of third-party service providers used by the app <br>
 [Google Play Services](https://policies.google.com/privacy)<br>
 [Firebase Crashlytics](https://firebase.google.com/support/privacy/)<br>
 [Facebook](https://www.facebook.com/about/privacy/update/printable)<br>
-[One Signal](https://onesignal.com/privacy_policy)<br>
-[Appsflyer](https://www.appsflyer.com/legal/privacy-policy/)<br>
 
 I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
@@ -63,6 +61,8 @@ Actions in applications Purpose: Analytics Advertising or marketing
 Installed apps Purpose: Analytics Advertising or Marketing Fraud Prevention, Security & Compliance
 Device IDs or other identifiers Purpose: Analytics Developer Contact Advertising or Marketing Fraud Prevention, Security, and Compliance
 Installed apps Purpose: Analytics Advertising or Marketing Fraud Prevention, Security & Compliance
+
+
 Collected data
 
 The data this application may collect.
@@ -75,13 +75,15 @@ Installed apps Purpose: Analytics Advertising or Marketing Fraud Prevention, Sec
 Birebin Simple - 
 Maker is uploading users' Installed Applications information without disclosing it in the privacy policy in Play Console.
 
-Bets10 bright is uploading users' Installed Applications information without posting a privacy policy in Play Distributed App.
+Crystal Space is uploading users' Installed Applications information without posting a privacy policy in Play Distributed App.
+
+
 Children’s Privacy
 
 These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
 Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-This policy is effective as of 2023-06-01 15:00
-Contact Us
+This policy is effective as of 2023-08-01 15:00
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@Bets10-bright.io.
+Contact Us
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at support@crystalspace.space
