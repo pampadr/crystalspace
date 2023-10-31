@@ -1,5 +1,5 @@
 <p float="left">
-  <a href="https://play.google.com/store/apps/details?id="><img src="google-play-badge.png" width="220" height="85"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.kristalnii.kosmos"><img src="google-play-badge.png" width="220" height="85"/></a>
   <a href="mailto:support@crystalspace.space"><img src="contact-button.png" width="220" height="85"/></a>
 </p>
 
