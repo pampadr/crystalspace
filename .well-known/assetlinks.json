@@ -1,16 +1,26 @@
-[{
-    "relation": ["delegate_permission/common.use_as_origin", "delegate_permission/common.handle_all_urls"],
+[
+  {
+    "relation": [
+      "delegate_permission/common.use_as_origin",
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "web",
       "site": "https://crystalspace.space"
     }
-  },{
-  "relation": ["delegate_permission/common.use_as_origin", "delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.kristalnii.kosmos",
-    "sha256_cert_fingerprints": [
-      ""
-    ]
+  },
+  {
+    "relation": [
+      "delegate_permission/common.use_as_origin",
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kristalnii.kosmos",
+      "sha256_cert_fingerprints": [
+        "",
+        "E3:3C:8B:63:13:94:E0:9E:79:65:2F:99:21:FE:E4:B1:42:94:54:D2:58:C0:F1:BE:E2:94:38:EE:A6:46:D8:A8"
+      ]
+    }
   }
-}]
+]
